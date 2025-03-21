@@ -1,26 +1,30 @@
-[01:50:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:50:56] [ServerMain/INFO]: Loaded 1290 recipes
-[01:50:57] [ServerMain/INFO]: Loaded 1399 advancements
-[01:50:57] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:50:57] [Server thread/INFO]: Loading properties
-[01:50:57] [Server thread/INFO]: Default game type: SURVIVAL
-[01:50:57] [Server thread/INFO]: Generating keypair
-[01:50:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:50:58] [Server thread/INFO]: Using epoll channel type
-[01:50:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:50:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:50:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:50:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:50:58] [Server thread/INFO]: Preparing level "world"
-[01:51:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:51:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:51:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:51:02] [Server thread/INFO]: Time elapsed: 806 ms
-[01:51:02] [Server thread/INFO]: Done (3.992s)! For help, type "help"
-[01:51:14] [Server thread/INFO]: Seed: [8844384692918467362]
-[01:51:58] [Server thread/INFO]: _Sebas23_[/100.107.93.52:63060] logged in with entity id 37 at (-76.48558715651775, 40.0, 64.37203666274333)
-[01:51:58] [Server thread/INFO]: _Sebas23_ joined the game
-[01:56:40] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[01:56:40] [Server thread/INFO]: _Sebas23_ left the game
-[01:57:12] [Server thread/INFO]: _Sebas23_[/100.107.93.52:63110] logged in with entity id 1090 at (-85.30000001192093, 6.0, 68.01675315517996)
-[01:57:12] [Server thread/INFO]: _Sebas23_ joined the game
+[03:56:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:56:39] [ServerMain/INFO]: Loaded 1290 recipes
+[03:56:39] [ServerMain/INFO]: Loaded 1399 advancements
+[03:56:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:56:40] [Server thread/INFO]: Loading properties
+[03:56:40] [Server thread/INFO]: Default game type: SURVIVAL
+[03:56:40] [Server thread/INFO]: Generating keypair
+[03:56:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:56:40] [Server thread/INFO]: Using epoll channel type
+[03:56:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:56:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:56:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:56:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:56:40] [Server thread/INFO]: Preparing level "world"
+[03:56:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:56:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:56:44] [Server thread/INFO]: Time elapsed: 526 ms
+[03:56:44] [Server thread/INFO]: Done (3.596s)! For help, type "help"
+[03:56:59] [Server thread/INFO]: _Sebas23_[/100.107.93.52:65269] logged in with entity id 18 at (-97.78864031453786, 58.91223551823121, 116.25311748687518)
+[03:56:59] [Server thread/INFO]: _Sebas23_ joined the game
+[03:57:02] [Server thread/WARN]: UUID of added entity already exists: cff['Bee'/250, l='ServerLevel[world]', x=-276.74, y=63.69, z=191.48]
+[03:57:02] [Server thread/WARN]: UUID of added entity already exists: cfl['Cow'/255, l='ServerLevel[world]', x=-277.14, y=65.00, z=-23.21]
+[04:02:39] [Server thread/INFO]: chepaboy[/100.80.73.88:63059] logged in with entity id 1416 at (-50.59006572085981, 58.22360879977026, 107.2690732593362)
+[04:02:39] [Server thread/INFO]: chepaboy joined the game
+[04:02:58] [Server thread/INFO]: chepaboy drowned
+[04:08:51] [Server thread/INFO]: _Sebas23_ has made the advancement [Diamonds!]
+[04:09:09] [Server thread/INFO]: chepaboy has made the advancement [Minecraft: Trial(s) Edition]
+[04:13:01] [Server thread/INFO]: _Sebas23_ has made the advancement [Under Lock and Key]
+[04:13:26] [Server thread/INFO]: chepaboy has made the advancement [Under Lock and Key]
+[04:14:52] [Server thread/INFO]: chepaboy has made the advancement [Take Aim]
