@@ -21,3 +21,16 @@
 [16:01:56] [Server thread/INFO]: _Sebas23_ joined the game
 [16:25:07] [Server thread/INFO]: _Sebas23_ has made the advancement [Ice Bucket Challenge]
 [16:29:43] [Server thread/INFO]: _Sebas23_ has made the advancement [What a Deal!]
+[17:05:29] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[17:05:29] [Server thread/INFO]: _Sebas23_ left the game
+[17:05:37] [Server thread/INFO]: Stopping the server
+[17:05:37] [Server thread/INFO]: Stopping server
+[17:05:37] [Server thread/INFO]: Saving players
+[17:05:37] [Server thread/INFO]: Saving worlds
+[17:05:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:05:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:05:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:05:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:05:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:05:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:05:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
