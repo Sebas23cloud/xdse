@@ -1694,5 +1694,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-21 05:44:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
