@@ -269,6 +269,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-03-21 00:44:59 +0000",
+      "honey_bottle": "2025-03-21 04:14:28 +0000",
       "rotten_flesh": "2025-03-21 02:10:45 +0000",
       "sweet_berries": "2025-03-21 01:25:54 +0000",
       "cooked_beef": "2025-03-21 01:39:51 +0000",
@@ -298,6 +299,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-21 01:14:59 +0000",
+      "minecraft:breeze": "2025-03-21 04:11:59 +0000",
       "minecraft:spider": "2025-03-21 01:16:48 +0000",
       "minecraft:zombie": "2025-03-21 01:18:01 +0000",
       "minecraft:creeper": "2025-03-21 01:35:39 +0000",
@@ -1224,9 +1226,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:16:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-21 03:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-21 04:19:55 +0000"
     },
     "done": true
   },
@@ -1239,6 +1253,24 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-03-21 03:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-03-21 04:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-21 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-21 04:16:38 +0000"
     },
     "done": true
   },
@@ -1284,9 +1316,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-21 04:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-21 04:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-21 04:13:10 +0000"
     },
     "done": true
   },
@@ -1353,6 +1403,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-21 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-21 04:16:13 +0000"
     },
     "done": true
   },
