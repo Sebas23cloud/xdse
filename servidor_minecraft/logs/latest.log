@@ -1,113 +1,26 @@
-[00:26:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:26:23] [ServerMain/INFO]: Loaded 1290 recipes
-[00:26:23] [ServerMain/INFO]: Loaded 1399 advancements
-[00:26:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:26:24] [Server thread/INFO]: Loading properties
-[00:26:24] [Server thread/INFO]: Default game type: SURVIVAL
-[00:26:24] [Server thread/INFO]: Generating keypair
-[00:26:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:26:24] [Server thread/INFO]: Using epoll channel type
-[00:26:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:26:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:26:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:26:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:26:24] [Server thread/INFO]: Preparing level "world"
-[00:26:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:26:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:26:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:26:28] [Server thread/INFO]: Time elapsed: 594 ms
-[00:26:28] [Server thread/INFO]: Done (4.279s)! For help, type "help"
-[00:26:31] [Server thread/INFO]: chepaboy[/100.80.73.88:49782] logged in with entity id 78 at (-9.5, 68.0, -7.5)
-[00:26:31] [Server thread/INFO]: chepaboy joined the game
-[00:28:30] [Server thread/INFO]: chepaboy has made the advancement [Ice Bucket Challenge]
-[00:29:01] [Server thread/INFO]: chepaboy has made the advancement [Suit Up]
-[00:31:39] [Server thread/INFO]: _Sebas23_[/100.107.93.52:61694] logged in with entity id 1594 at (-7.654774419673863, 69.0, -16.316519159011936)
-[00:31:39] [Server thread/INFO]: _Sebas23_ joined the game
-[00:31:42] [Server thread/INFO]: chepaboy has made the advancement [Sweet Dreams]
-[00:32:09] [Server thread/INFO]: _Sebas23_ lost connection: Timed out
-[00:32:09] [Server thread/INFO]: _Sebas23_ left the game
-[00:32:09] [Server thread/WARN]: handleDisconnection() called twice
-[00:32:45] [Server thread/INFO]: _Sebas23_[/100.107.93.52:61714] logged in with entity id 1771 at (-7.654774419673863, 69.0, -16.316519159011936)
-[00:32:45] [Server thread/INFO]: _Sebas23_ joined the game
-[00:33:45] [Server thread/INFO]: _Sebas23_ lost connection: Timed out
-[00:33:45] [Server thread/INFO]: _Sebas23_ left the game
-[00:34:44] [Server thread/INFO]: _Sebas23_[/100.107.93.52:61748] logged in with entity id 2272 at (-7.654774419673863, 69.0, -16.316519159011936)
-[00:34:44] [Server thread/INFO]: _Sebas23_ joined the game
-[00:34:46] [Server thread/INFO]: chepaboy has made the advancement [Stone Age]
-[00:35:59] [Server thread/INFO]: _Sebas23_ lost connection: Timed out
-[00:35:59] [Server thread/INFO]: _Sebas23_ left the game
-[00:36:28] [Server thread/INFO]: _Sebas23_[/100.107.93.52:61762] logged in with entity id 2628 at (-7.641669520537431, 69.0, -12.914389083877259)
-[00:36:28] [Server thread/INFO]: _Sebas23_ joined the game
-[00:36:46] [Server thread/INFO]: chepaboy has made the advancement [Getting an Upgrade]
-[00:37:59] [Server thread/INFO]: [Not Secure] <chepaboy> tenes un intertnet de mrd
-[00:39:53] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.759565985053356,2.1661092609382138,1.125233111491692
-[00:40:06] [Server thread/WARN]: _Sebas23_ moved too quickly! 0.18782478036034433,0.8338907390617862,-10.045751050265851
-[00:40:12] [Server thread/INFO]: [Not Secure] <chepaboy> 75 65
-[00:40:20] [Server thread/INFO]: [Not Secure] <chepaboy> -75 65
-[00:40:25] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.4213726338624895,-0.5800000131130219,-9.87392139950473
-[00:40:46] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.810928551311264,0.8322033533667508,9.75821393878294
-[00:41:51] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.647639607886063,1.8579134280962535,2.5261526414022626
-[00:41:52] [Server thread/INFO]: chepaboy has made the advancement [Acquire Hardware]
-[00:44:14] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[00:44:14] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[00:44:14] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[00:44:14] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[00:44:58] [Server thread/INFO]: chepaboy has made the advancement [Monster Hunter]
-[00:45:18] [Server thread/INFO]: _Sebas23_ has made the advancement [Sweet Dreams]
-[00:45:23] [Server thread/INFO]: [Not Secure] <_Sebas23_> xddddddddddddddd
-[00:46:14] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[00:46:14] [Server thread/INFO]: _Sebas23_ left the game
-[00:47:19] [Server thread/INFO]: chepaboy has made the advancement [Isn't It Iron Pick]
-[00:47:58] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[00:47:58] [Server thread/INFO]: chepaboy left the game
-[00:58:03] [Server thread/INFO]: chepaboy[/100.80.73.88:53073] logged in with entity id 4909 at (-77.69999998807907, 40.0, 67.1416195507806)
-[00:58:03] [Server thread/INFO]: chepaboy joined the game
-[00:58:13] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[00:58:13] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[00:58:13] [Server thread/INFO]: [Not Secure] <chepaboy> Z
-[00:59:01] [Server thread/INFO]: chepaboy has made the advancement [Not Today, Thank You]
-[00:59:48] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[00:59:48] [Server thread/INFO]: chepaboy left the game
-[01:09:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:09:37] [Server thread/INFO]: ip<--[HERE]
-[01:10:11] [Server thread/INFO]: _Sebas23_[/100.107.93.52:62607] logged in with entity id 5422 at (-74.69999998807907, 46.0, 65.39594758239221)
-[01:10:11] [Server thread/INFO]: _Sebas23_ joined the game
-[01:14:59] [Server thread/INFO]: _Sebas23_ has made the advancement [Monster Hunter]
-[01:15:12] [Server thread/INFO]: _Sebas23_ has made the advancement [Stone Age]
-[01:15:59] [Server thread/INFO]: _Sebas23_ has made the advancement [Getting an Upgrade]
-[01:18:10] [Server thread/INFO]: _Sebas23_ was slain by Zombie
-[01:19:15] [Server thread/INFO]: _Sebas23_ has made the advancement [Acquire Hardware]
-[01:21:56] [Server thread/INFO]: chepaboy[/100.80.73.88:55444] logged in with entity id 7712 at (-51.68402578403914, 39.0, 69.68095839552124)
-[01:21:56] [Server thread/INFO]: chepaboy joined the game
-[01:21:59] [Server thread/INFO]: _Sebas23_ has made the advancement [Not Today, Thank You]
-[01:29:09] [Server thread/WARN]: chepaboy was kicked for floating too long!
-[01:29:09] [Server thread/INFO]: chepaboy lost connection: Flying is not enabled on this server
-[01:29:09] [Server thread/INFO]: chepaboy left the game
-[01:29:17] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[01:29:21] [Server thread/INFO]: chepaboy[/100.80.73.88:56673] logged in with entity id 10319 at (41.55090998233394, 65.25220334025373, 104.98569976981483)
-[01:29:21] [Server thread/INFO]: chepaboy joined the game
-[01:29:24] [Server thread/INFO]: [Not Secure] <_Sebas23_> q hablas
-[01:29:52] [Server thread/WARN]: chepaboy moved too quickly! 10.18197200841481,-0.03267786019014096,-0.018894914243531957
-[01:30:43] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd?
-[01:30:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> espera
-[01:30:57] [Server thread/INFO]: [Not Secure] <chepaboy> Habla ve xd
-[01:30:59] [Server thread/INFO]: [Not Secure] <_Sebas23_> espera
-[01:31:10] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[01:31:10] [Server thread/INFO]: chepaboy left the game
-[01:31:17] [Server thread/INFO]: chepaboy[/100.80.73.88:57113] logged in with entity id 10793 at (-76.15203572876548, 40.0, 66.62758152904809)
-[01:31:17] [Server thread/INFO]: chepaboy joined the game
-[01:31:37] [Server thread/INFO]: _Sebas23_ has made the advancement [Suit Up]
-[01:34:56] [Server thread/WARN]: chepaboy moved too quickly! 9.098796672237235,-3.7531999805212024,2.6527945609683456
-[01:37:13] [Server thread/WARN]: chepaboy moved too quickly! 2.481091048484881,7.674415492365398,6.168459450863864
-[01:37:27] [Server thread/INFO]: _Sebas23_ has made the advancement [Minecraft: Trial(s) Edition]
-[01:37:56] [Server thread/INFO]: [Not Secure] <_Sebas23_> -15 35 58
-[01:43:12] [Server thread/INFO]: _Sebas23_ has made the advancement [Isn't It Iron Pick]
-[01:43:33] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[01:43:33] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[01:43:33] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[01:43:33] [Server thread/INFO]: [Not Secure] <chepaboy> z
-[01:45:13] [Server thread/INFO]: [Not Secure] <chepaboy> muxhaxho?
-[01:45:59] [Server thread/WARN]: chepaboy moved too quickly! -4.471148874314736,3.0,-8.565371998805894
-[01:46:02] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[01:46:02] [Server thread/INFO]: chepaboy left the game
-[01:46:40] [Server thread/INFO]: [Not Secure] <_Sebas23_> q
+[01:50:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:50:56] [ServerMain/INFO]: Loaded 1290 recipes
+[01:50:57] [ServerMain/INFO]: Loaded 1399 advancements
+[01:50:57] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:50:57] [Server thread/INFO]: Loading properties
+[01:50:57] [Server thread/INFO]: Default game type: SURVIVAL
+[01:50:57] [Server thread/INFO]: Generating keypair
+[01:50:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:50:58] [Server thread/INFO]: Using epoll channel type
+[01:50:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:50:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:50:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:50:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:50:58] [Server thread/INFO]: Preparing level "world"
+[01:51:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:51:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:51:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:51:02] [Server thread/INFO]: Time elapsed: 806 ms
+[01:51:02] [Server thread/INFO]: Done (3.992s)! For help, type "help"
+[01:51:14] [Server thread/INFO]: Seed: [8844384692918467362]
+[01:51:58] [Server thread/INFO]: _Sebas23_[/100.107.93.52:63060] logged in with entity id 37 at (-76.48558715651775, 40.0, 64.37203666274333)
+[01:51:58] [Server thread/INFO]: _Sebas23_ joined the game
+[01:56:40] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:56:40] [Server thread/INFO]: _Sebas23_ left the game
+[01:57:12] [Server thread/INFO]: _Sebas23_[/100.107.93.52:63110] logged in with entity id 1090 at (-85.30000001192093, 6.0, 68.01675315517996)
+[01:57:12] [Server thread/INFO]: _Sebas23_ joined the game
