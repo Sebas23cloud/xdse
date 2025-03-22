@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-21 06:11:10 +0000",
+      "minecraft:savanna_plateau": "2025-03-22 05:48:04 +0000",
       "minecraft:beach": "2025-03-21 06:11:02 +0000",
       "minecraft:forest": "2025-03-20 23:49:32 +0000",
       "minecraft:taiga": "2025-03-20 23:44:57 +0000",
