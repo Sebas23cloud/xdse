@@ -33,3 +33,13 @@
 [04:33:20] [Server thread/INFO]: chepaboy[/100.80.73.88:52591] logged in with entity id 7377 at (2953.9551024518973, 68.0, -595.5598066210829)
 [04:33:20] [Server thread/INFO]: chepaboy joined the game
 [04:33:40] [Server thread/INFO]: [Not Secure] <_Sebas23_> 3044 46 -425
+[04:40:28] [Server thread/INFO]: Invalid name or UUID
+[04:40:28] [Server thread/INFO]: msg /seed<--[HERE]
+[04:40:40] [Server thread/INFO]: Seed: [8844384692918467362]
+[04:40:54] [Server thread/INFO]: [Not Secure] <_Sebas23_> 8844384692918467362
+[04:41:39] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[04:41:39] [Server thread/INFO]: chepaboy left the game
+[04:44:20] [Server thread/INFO]: chepaboy[/100.80.73.88:54074] logged in with entity id 11169 at (2825.2376174813753, 70.0, -705.1362952460692)
+[04:44:20] [Server thread/INFO]: chepaboy joined the game
+[04:45:49] [Server thread/INFO]: _Sebas23_ was slain by chepaboy
+[04:50:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2771, y=65, z=-387} jd{x=2772, y=64, z=-387}
