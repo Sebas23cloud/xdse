@@ -21,3 +21,12 @@
 [01:35:39] [Server thread/INFO]: _Sebas23_ joined the game
 [01:36:05] [Server thread/INFO]: chepaboy[/100.80.73.88:55723] logged in with entity id 474 at (2594.040908103065, -45.0, -101.79142792391761)
 [01:36:05] [Server thread/INFO]: chepaboy joined the game
+[01:50:33] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[01:50:33] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[01:50:33] [Server thread/INFO]: _Sebas23_ left the game
+[01:50:33] [Server thread/WARN]: handleDisconnection() called twice
+[01:50:39] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54267] logged in with entity id 4580 at (2669.40752433014, -44.2468000194788, -271.1826205996127)
+[01:50:39] [Server thread/INFO]: _Sebas23_ joined the game
+[01:51:18] [Server thread/WARN]: _Sebas23_ moved too quickly! -0.18385351308143072,0.3955758986732931,10.254651228130172
+[01:52:08] [Server thread/WARN]: _Sebas23_ moved too quickly! 10.00871252999059,0.0,0.7531128138282952
+[01:52:44] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.724825085655084,-0.626095963533281,-2.3890236527004163
