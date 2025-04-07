@@ -79,3 +79,23 @@
 [03:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
 [03:29:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2667, y=70, z=-757} jd{x=2667, y=70, z=-758}
 [03:34:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2689, y=71, z=-746} jd{x=2689, y=70, z=-747}
+[03:39:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2831, y=68, z=-746} jd{x=2830, y=66, z=-746}
+[03:44:37] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:38] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[03:44:38] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[03:44:38] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:38] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:38] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:38] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:39] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:39] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:39] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[03:44:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:54] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:54] [Server thread/INFO]: [Not Secure] <chepaboy> zzz
+[03:44:54] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:55] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[03:44:55] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:55] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:44:55] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:45:26] [Server thread/INFO]: Villager cmk['Librarian'/7439, l='ServerLevel[world]', x=2795.21, y=70.13, z=-649.30] died, message: 'Librarian was slain by Zombie'
