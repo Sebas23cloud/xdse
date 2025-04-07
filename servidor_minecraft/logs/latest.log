@@ -1,33 +1,39 @@
-[15:26:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:26:15] [ServerMain/INFO]: Loaded 1290 recipes
-[15:26:16] [ServerMain/INFO]: Loaded 1399 advancements
-[15:26:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:26:16] [Server thread/INFO]: Loading properties
-[15:26:16] [Server thread/INFO]: Default game type: SURVIVAL
-[15:26:16] [Server thread/INFO]: Generating keypair
-[15:26:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:26:16] [Server thread/INFO]: Using epoll channel type
-[15:26:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:26:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:26:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:26:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:26:16] [Server thread/INFO]: Preparing level "world"
-[15:26:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:26:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:26:20] [Worker-Main-1/INFO]: Preparing spawn area: 97%
-[15:26:20] [Server thread/INFO]: Time elapsed: 539 ms
-[15:26:20] [Server thread/INFO]: Done (3.250s)! For help, type "help"
-[15:26:48] [Server thread/INFO]: _Sebas23_[/100.93.67.125:11201] logged in with entity id 16 at (2815.3576860879803, 71.0, -707.4680211269545)
-[15:26:48] [Server thread/INFO]: _Sebas23_ joined the game
-[15:31:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2766, y=69, z=-741} jd{x=2766, y=67, z=-743}
-[15:32:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2754, y=69, z=-770} jd{x=2753, y=68, z=-768}
-[15:36:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2753, y=69, z=-776} jd{x=2751, y=68, z=-776}
-[15:36:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2753, y=69, z=-776} jd{x=2751, y=68, z=-776}
-[15:36:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2749, y=68, z=-779} jd{x=2749, y=68, z=-778}
-[15:36:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2729, y=68, z=-772} jd{x=2729, y=67, z=-771}
-[15:38:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2838, y=71, z=-716} jd{x=2838, y=69, z=-717}
-[15:38:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2848, y=71, z=-746} jd{x=2848, y=69, z=-748}
-[15:38:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2848, y=71, z=-746} jd{x=2848, y=69, z=-748}
-[16:27:18] [Server thread/INFO]: _Sebas23_ has made the advancement [Hot Stuff]
-[16:40:05] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[16:40:05] [Server thread/INFO]: _Sebas23_ left the game
+[19:33:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:33:13] [ServerMain/INFO]: Loaded 1290 recipes
+[19:33:13] [ServerMain/INFO]: Loaded 1399 advancements
+[19:33:14] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:33:14] [Server thread/INFO]: Loading properties
+[19:33:14] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:14] [Server thread/INFO]: Generating keypair
+[19:33:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:33:14] [Server thread/INFO]: Using epoll channel type
+[19:33:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:33:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:33:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:33:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:33:14] [Server thread/INFO]: Preparing level "world"
+[19:33:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:33:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:33:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:33:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:33:19] [Worker-Main-3/INFO]: Preparing spawn area: 16%
+[19:33:19] [Worker-Main-1/INFO]: Preparing spawn area: 28%
+[19:33:20] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[19:33:20] [Server thread/INFO]: Time elapsed: 2712 ms
+[19:33:20] [Server thread/INFO]: Done (5.708s)! For help, type "help"
+[19:33:27] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50359] logged in with entity id 16 at (2836.2277737729823, 70.0, -730.0460905595718)
+[19:33:27] [Server thread/INFO]: _Sebas23_ joined the game
+[19:34:52] [Server thread/INFO]: chepaboy[/100.80.73.88:56569] logged in with entity id 536 at (2842.755166737511, 72.0, -710.3448229370557)
+[19:34:52] [Server thread/INFO]: chepaboy joined the game
+[19:35:00] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[19:35:00] [Server thread/INFO]: chepaboy left the game
+[19:36:56] [Server thread/INFO]: chepaboy[/100.80.73.88:56707] logged in with entity id 1248 at (2842.755166737511, 72.0, -710.3448229370557)
+[19:36:56] [Server thread/INFO]: chepaboy joined the game
+[19:39:08] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[19:39:08] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[19:39:09] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[19:39:09] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[19:39:09] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[19:39:09] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[19:39:09] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[19:40:13] [Server thread/INFO]: chepaboy has made the advancement [Hot Stuff]
