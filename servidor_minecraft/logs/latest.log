@@ -77,3 +77,5 @@
 [03:21:52] [Server thread/INFO]: [Not Secure] <chepaboy> z
 [03:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
 [03:21:53] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[03:29:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2667, y=70, z=-757} jd{x=2667, y=70, z=-758}
+[03:34:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2689, y=71, z=-746} jd{x=2689, y=70, z=-747}
