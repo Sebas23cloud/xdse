@@ -41,3 +41,14 @@
 [02:16:29] [Server thread/INFO]: [Not Secure] <chepaboy> tome señora tome
 [02:22:33] [Server thread/INFO]: [Not Secure] <_Sebas23_> tilikn
 [02:22:36] [Server thread/INFO]: [Not Secure] <_Sebas23_> me ire ba;aar
+[02:42:30] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[02:42:30] [Server thread/INFO]: _Sebas23_ left the game
+[02:42:33] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54514] logged in with entity id 12578 at (2814.600692126713, 70.0, -715.326897079384)
+[02:42:33] [Server thread/INFO]: _Sebas23_ joined the game
+[02:43:10] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.913040934604396,1.1661092609382138,-2.5278037895228636
+[02:44:23] [Server thread/WARN]: _Sebas23_ moved too quickly! -8.421824150126668,1.1212968405392019,-5.447312012278644
+[02:45:18] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[02:45:18] [Server thread/INFO]: _Sebas23_ left the game
+[02:45:21] [Server thread/INFO]: _Sebas23_[/100.93.67.125:54533] logged in with entity id 13603 at (2780.623527127532, 70.0, -747.9791910612599)
+[02:45:21] [Server thread/INFO]: _Sebas23_ joined the game
+[02:45:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2809, y=69, z=-743} jd{x=2814, y=70, z=-755}
