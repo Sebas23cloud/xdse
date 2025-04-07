@@ -316,6 +316,7 @@
       "minecraft:pillager": "2025-04-07 04:12:33 +0000",
       "minecraft:skeleton": "2025-03-21 01:14:59 +0000",
       "minecraft:breeze": "2025-03-21 04:11:59 +0000",
+      "minecraft:vindicator": "2025-04-07 04:37:02 +0000",
       "minecraft:enderman": "2025-04-07 01:17:49 +0000",
       "minecraft:spider": "2025-03-21 01:16:48 +0000",
       "minecraft:zombie": "2025-03-21 01:18:01 +0000",
@@ -2207,6 +2208,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-07 04:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-07 04:39:38 +0000"
     },
     "done": true
   },
