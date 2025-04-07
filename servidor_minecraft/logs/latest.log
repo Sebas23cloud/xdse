@@ -1,28 +1,35 @@
-[18:10:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:10:18] [ServerMain/INFO]: Loaded 1290 recipes
-[18:10:18] [ServerMain/INFO]: Loaded 1399 advancements
-[18:10:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:10:19] [Server thread/INFO]: Loading properties
-[18:10:19] [Server thread/INFO]: Default game type: SURVIVAL
-[18:10:19] [Server thread/INFO]: Generating keypair
-[18:10:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:10:19] [Server thread/INFO]: Using epoll channel type
-[18:10:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:10:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:10:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:10:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:10:19] [Server thread/INFO]: Preparing level "world"
-[18:10:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:10:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:10:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:10:22] [Server thread/INFO]: Time elapsed: 645 ms
-[18:10:22] [Server thread/INFO]: Done (3.122s)! For help, type "help"
-[18:11:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:51853] logged in with entity id 16 at (2822.705625394852, 71.0, -706.3081469769303)
-[18:11:32] [Server thread/INFO]: _Sebas23_ joined the game
-[18:11:58] [Server thread/WARN]: _Sebas23_ moved too quickly! 8.467267341306979,-0.24601379826124514,5.365967302247327
-[18:17:54] [Server thread/INFO]: _Sebas23_ has made the advancement [A Seedy Place]
-[18:19:41] [Server thread/INFO]: [Not Secure] <_Sebas23_> 2823 79 /571
-[18:19:54] [Server thread/INFO]: [Not Secure] <_Sebas23_> -571
-[18:38:30] [Server thread/INFO]: [Not Secure] <_Sebas23_> 2596 72 -424
-[18:40:20] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[18:40:20] [Server thread/INFO]: _Sebas23_ left the game
+[00:17:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:17:39] [ServerMain/INFO]: Loaded 1290 recipes
+[00:17:39] [ServerMain/INFO]: Loaded 1399 advancements
+[00:17:39] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:17:39] [Server thread/INFO]: Loading properties
+[00:17:39] [Server thread/INFO]: Default game type: SURVIVAL
+[00:17:39] [Server thread/INFO]: Generating keypair
+[00:17:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:17:39] [Server thread/INFO]: Using epoll channel type
+[00:17:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:17:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:17:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:17:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:17:40] [Server thread/INFO]: Preparing level "world"
+[00:17:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:17:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:17:43] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:17:43] [Server thread/INFO]: Time elapsed: 596 ms
+[00:17:43] [Server thread/INFO]: Done (3.202s)! For help, type "help"
+[00:18:26] [Server thread/INFO]: The difficulty has been set to Hard
+[00:18:44] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39408] logged in with entity id 16 at (2825.3504527154037, 71.0, -701.0201704392512)
+[00:18:44] [Server thread/INFO]: _Sebas23_ joined the game
+[00:19:56] [Server thread/WARN]: _Sebas23_ moved too quickly! 1.200073150767821,1.5584870982234804,-9.952489998814713
+[00:20:26] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.329263656430612,3.7461092740512356,-0.2972400321364148
+[00:22:27] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.998906202342368,0.9823124203990119,-1.4180684431680675
+[00:23:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2746, y=74, z=-674} jd{x=2746, y=73, z=-675}
+[00:23:45] [Server thread/WARN]: _Sebas23_ moved too quickly! 3.7504450892479326,0.7508129212553172,-9.439431463509663
+[00:24:05] [Server thread/WARN]: _Sebas23_ moved too quickly! -1.4474209461800456,1.2491870787446828,-9.892792242944893
+[00:24:05] [Server thread/INFO]: [Not Secure] * _Sebas23_ xd
+[00:24:11] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:24:11] [Server thread/INFO]: _Sebas23_ left the game
+[00:24:13] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39434] logged in with entity id 1402 at (2744.1800835629074, 77.0, -709.652077331853)
+[00:24:13] [Server thread/INFO]: _Sebas23_ joined the game
+[00:24:59] [Server thread/WARN]: _Sebas23_ moved too quickly! -0.5500783038373811,-9.639673001790136,-3.066739020146315
+[00:26:30] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.829960932494032,0.41999998688697815,2.602135904157535
