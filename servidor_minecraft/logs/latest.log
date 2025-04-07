@@ -33,3 +33,15 @@
 [00:24:13] [Server thread/INFO]: _Sebas23_ joined the game
 [00:24:59] [Server thread/WARN]: _Sebas23_ moved too quickly! -0.5500783038373811,-9.639673001790136,-3.066739020146315
 [00:26:30] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.829960932494032,0.41999998688697815,2.602135904157535
+[00:28:22] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[00:28:22] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[00:28:22] [Server thread/INFO]: _Sebas23_ left the game
+[00:28:22] [Server thread/WARN]: handleDisconnection() called twice
+[00:28:28] [Server thread/INFO]: _Sebas23_[/100.93.67.125:39448] logged in with entity id 2834 at (2771.9406948884657, 70.7531999805212, -650.6079337324582)
+[00:28:28] [Server thread/INFO]: _Sebas23_ joined the game
+[00:30:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:30:04] [Server thread/INFO]: hola<--[HERE]
+[00:30:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:30:25] [Server thread/INFO]: ping<--[HERE]
+[00:30:45] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[00:30:45] [Server thread/INFO]: _Sebas23_ left the game
