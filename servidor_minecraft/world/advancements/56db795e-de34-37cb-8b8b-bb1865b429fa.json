@@ -2443,6 +2443,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-04-07 22:40:23 +0000",
+      "minecraft:soul_sand_valley": "2025-04-07 22:39:29 +0000",
       "minecraft:basalt_deltas": "2025-04-07 21:36:38 +0000"
     },
     "done": false
@@ -2516,6 +2518,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-07 20:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-07 22:40:26 +0000"
     },
     "done": true
   },
@@ -2624,6 +2632,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-07 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-07 22:40:26 +0000"
     },
     "done": true
   },
