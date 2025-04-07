@@ -68,3 +68,8 @@
 [20:01:21] [Server thread/INFO]: [Not Secure] <chepaboy> z
 [20:01:21] [Server thread/INFO]: [Not Secure] <chepaboy> z
 [20:06:09] [Server thread/INFO]: Villager cmk['Leatherworker'/77, l='ServerLevel[world]', x=2834.74, y=70.00, z=-717.76] died, message: 'Leatherworker was slain by _Sebas23_'
+[20:32:00] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[20:32:00] [Server thread/INFO]: chepaboy left the game
+[20:32:10] [Server thread/INFO]: chepaboy[/100.80.73.88:59344] logged in with entity id 13866 at (2982.4399938983406, 63.0, -864.6999999880791)
+[20:32:10] [Server thread/INFO]: chepaboy joined the game
+[20:41:14] [Server thread/INFO]: Villager cmk['Weaponsmith'/2287, l='ServerLevel[world]', x=2833.11, y=73.00, z=-685.82] died, message: 'Weaponsmith was slain by chepaboy'
