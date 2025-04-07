@@ -643,6 +643,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-07 04:33:19 +0000",
       "minecraft:skeleton": "2025-03-21 00:59:11 +0000",
       "minecraft:breeze": "2025-03-21 04:12:51 +0000",
       "minecraft:spider": "2025-03-22 04:29:35 +0000",
@@ -2577,6 +2578,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-07 03:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-07 04:33:19 +0000"
     },
     "done": true
   },
