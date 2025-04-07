@@ -2653,6 +2653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-07 23:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-07 20:21:04 +0000"
@@ -2752,6 +2758,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-07 20:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-07 23:09:02 +0000"
     },
     "done": true
   },
