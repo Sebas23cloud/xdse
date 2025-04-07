@@ -99,3 +99,5 @@
 [03:44:55] [Server thread/INFO]: [Not Secure] <chepaboy> z
 [03:44:55] [Server thread/INFO]: [Not Secure] <chepaboy> z
 [03:45:26] [Server thread/INFO]: Villager cmk['Librarian'/7439, l='ServerLevel[world]', x=2795.21, y=70.13, z=-649.30] died, message: 'Librarian was slain by Zombie'
+[03:56:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2752, y=70, z=-741} jd{x=2751, y=70, z=-740}
+[03:56:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2752, y=70, z=-741} jd{x=2751, y=70, z=-740}
