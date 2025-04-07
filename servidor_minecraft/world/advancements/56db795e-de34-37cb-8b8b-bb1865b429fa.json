@@ -315,6 +315,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-21 01:14:59 +0000",
       "minecraft:breeze": "2025-03-21 04:11:59 +0000",
+      "minecraft:enderman": "2025-04-07 01:17:49 +0000",
       "minecraft:spider": "2025-03-21 01:16:48 +0000",
       "minecraft:zombie": "2025-03-21 01:18:01 +0000",
       "minecraft:creeper": "2025-03-21 01:35:39 +0000",
@@ -2157,6 +2158,24 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-06 18:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-07 01:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-07 01:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-07 01:07:52 +0000"
     },
     "done": true
   },
