@@ -20,3 +20,4 @@
 [17:10:47] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50304] logged in with entity id 16 at (2825.2634737888557, 71.0, -700.9864150443648)
 [17:10:47] [Server thread/INFO]: _Sebas23_ joined the game
 [17:19:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2718, y=71, z=-732} jd{x=2718, y=69, z=-732}
+[17:48:23] [Server thread/INFO]: Villager cmk['Villager'/4766, l='ServerLevel[world]', x=2796.64, y=70.19, z=-693.49] died, message: 'Villager was slain by _Sebas23_'
