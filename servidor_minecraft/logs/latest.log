@@ -40,3 +40,6 @@
 [18:02:19] [Server thread/INFO]: _Sebas23_ left the game
 [18:02:21] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50509] logged in with entity id 12743 at (2776.289103180334, 71.16610926093821, -742.2634891933395)
 [18:02:21] [Server thread/INFO]: _Sebas23_ joined the game
+[18:19:26] [Server thread/INFO]: Villager cmk['Fisherman'/12760, l='ServerLevel[world]', x=2767.50, y=70.56, z=-747.60] died, message: 'Fisherman was slain by zombi vs creeper'
+[18:19:29] [Server thread/INFO]: Villager cmk['Fisherman'/12745, l='ServerLevel[world]', x=2767.30, y=70.56, z=-747.94] died, message: 'Fisherman was slain by zombi vs creeper'
+[18:19:30] [Server thread/INFO]: Villager cmk['Fisherman'/12746, l='ServerLevel[world]', x=2767.44, y=70.56, z=-748.00] died, message: 'Fisherman was slain by Zombie Villager'
