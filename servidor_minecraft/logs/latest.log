@@ -43,3 +43,5 @@
 [18:19:26] [Server thread/INFO]: Villager cmk['Fisherman'/12760, l='ServerLevel[world]', x=2767.50, y=70.56, z=-747.60] died, message: 'Fisherman was slain by zombi vs creeper'
 [18:19:29] [Server thread/INFO]: Villager cmk['Fisherman'/12745, l='ServerLevel[world]', x=2767.30, y=70.56, z=-747.94] died, message: 'Fisherman was slain by zombi vs creeper'
 [18:19:30] [Server thread/INFO]: Villager cmk['Fisherman'/12746, l='ServerLevel[world]', x=2767.44, y=70.56, z=-748.00] died, message: 'Fisherman was slain by Zombie Villager'
+[18:28:39] [Server thread/INFO]: Villager cmk['Villager'/12843, l='ServerLevel[world]', x=2797.72, y=70.19, z=-689.30] died, message: 'Villager was slain by _Sebas23_'
+[18:30:55] [Server thread/INFO]: Villager cmk['Fisherman'/12840, l='ServerLevel[world]', x=2767.30, y=70.56, z=-747.49] died, message: 'Fisherman was slain by zombi vs creeper'
