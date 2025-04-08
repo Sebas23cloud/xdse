@@ -1,47 +1,43 @@
-[17:10:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:10:35] [ServerMain/INFO]: Loaded 1290 recipes
-[17:10:35] [ServerMain/INFO]: Loaded 1399 advancements
-[17:10:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:10:35] [Server thread/INFO]: Loading properties
-[17:10:35] [Server thread/INFO]: Default game type: SURVIVAL
-[17:10:35] [Server thread/INFO]: Generating keypair
-[17:10:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:10:36] [Server thread/INFO]: Using epoll channel type
-[17:10:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:10:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:10:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:10:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:10:36] [Server thread/INFO]: Preparing level "world"
-[17:10:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:10:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:10:38] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[17:10:38] [Server thread/INFO]: Time elapsed: 571 ms
-[17:10:38] [Server thread/INFO]: Done (2.902s)! For help, type "help"
-[17:10:47] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50304] logged in with entity id 16 at (2825.2634737888557, 71.0, -700.9864150443648)
-[17:10:47] [Server thread/INFO]: _Sebas23_ joined the game
-[17:19:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2718, y=71, z=-732} jd{x=2718, y=69, z=-732}
-[17:48:23] [Server thread/INFO]: Villager cmk['Villager'/4766, l='ServerLevel[world]', x=2796.64, y=70.19, z=-693.49] died, message: 'Villager was slain by _Sebas23_'
-[17:57:47] [Server thread/WARN]: _Sebas23_ moved too quickly! -9.273196958917197,-0.49520087700592796,4.238036031317506
-[17:57:47] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[17:57:47] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[17:58:57] [Server thread/WARN]: _Sebas23_ moved too quickly! 0.6015377390144749,1.0013359791121417,9.976938802869427
-[18:00:58] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[18:00:58] [Server thread/INFO]: _Sebas23_ left the game
-[18:01:01] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50502] logged in with entity id 11668 at (2760.1680843560334, 70.0, -741.9147064614706)
-[18:01:01] [Server thread/INFO]: _Sebas23_ joined the game
-[18:01:53] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[18:01:53] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[18:01:53] [Server thread/INFO]: _Sebas23_ left the game
-[18:01:54] [Server thread/WARN]: handleDisconnection() called twice
-[18:01:58] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50508] logged in with entity id 12364 at (2826.823342465669, 70.7531999805212, -747.8410512219972)
-[18:01:58] [Server thread/INFO]: _Sebas23_ joined the game
-[18:02:19] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[18:02:19] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[18:02:19] [Server thread/INFO]: _Sebas23_ left the game
-[18:02:21] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50509] logged in with entity id 12743 at (2776.289103180334, 71.16610926093821, -742.2634891933395)
-[18:02:21] [Server thread/INFO]: _Sebas23_ joined the game
-[18:19:26] [Server thread/INFO]: Villager cmk['Fisherman'/12760, l='ServerLevel[world]', x=2767.50, y=70.56, z=-747.60] died, message: 'Fisherman was slain by zombi vs creeper'
-[18:19:29] [Server thread/INFO]: Villager cmk['Fisherman'/12745, l='ServerLevel[world]', x=2767.30, y=70.56, z=-747.94] died, message: 'Fisherman was slain by zombi vs creeper'
-[18:19:30] [Server thread/INFO]: Villager cmk['Fisherman'/12746, l='ServerLevel[world]', x=2767.44, y=70.56, z=-748.00] died, message: 'Fisherman was slain by Zombie Villager'
-[18:28:39] [Server thread/INFO]: Villager cmk['Villager'/12843, l='ServerLevel[world]', x=2797.72, y=70.19, z=-689.30] died, message: 'Villager was slain by _Sebas23_'
-[18:30:55] [Server thread/INFO]: Villager cmk['Fisherman'/12840, l='ServerLevel[world]', x=2767.30, y=70.56, z=-747.49] died, message: 'Fisherman was slain by zombi vs creeper'
+[23:30:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:30:53] [ServerMain/INFO]: Loaded 1290 recipes
+[23:30:54] [ServerMain/INFO]: Loaded 1399 advancements
+[23:30:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:30:54] [Server thread/INFO]: Loading properties
+[23:30:54] [Server thread/INFO]: Default game type: SURVIVAL
+[23:30:54] [Server thread/INFO]: Generating keypair
+[23:30:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:30:55] [Server thread/INFO]: Using epoll channel type
+[23:30:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:30:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:30:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:30:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:30:55] [Server thread/INFO]: Preparing level "world"
+[23:30:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:30:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:30:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:30:59] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[23:30:59] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[23:31:00] [Server thread/INFO]: Time elapsed: 1867 ms
+[23:31:00] [Server thread/INFO]: Done (4.929s)! For help, type "help"
+[23:31:10] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50063] logged in with entity id 16 at (2768.5533149153143, 73.0, -750.6026622789108)
+[23:31:10] [Server thread/INFO]: _Sebas23_ joined the game
+[23:34:58] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[23:34:58] [Server thread/INFO]: _Sebas23_ left the game
+[23:35:01] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50089] logged in with entity id 851 at (2769.703066495383, 73.0, -746.6420948925512)
+[23:35:01] [Server thread/INFO]: _Sebas23_ joined the game
+[23:40:13] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.613591723155423,0.6815583980583142,-3.684657750333372
+[23:40:19] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[23:40:19] [Server thread/INFO]: _Sebas23_ left the game
+[23:40:23] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50114] logged in with entity id 2321 at (2801.8170972760636, 70.0, -724.5312666704305)
+[23:40:23] [Server thread/INFO]: _Sebas23_ joined the game
+[23:40:59] [Server thread/WARN]: _Sebas23_ moved too quickly! -6.899565969752075,-1.1767592750642422,-7.2985991535907715
+[23:44:33] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[23:44:33] [Server thread/INFO]: _Sebas23_ left the game
+[23:44:33] [Server thread/WARN]: handleDisconnection() called twice
+[23:44:33] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50128] logged in with entity id 3653 at (2822.0510255477325, 70.0, -704.5568368214025)
+[23:44:33] [Server thread/INFO]: _Sebas23_ joined the game
+[23:47:01] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[23:47:01] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[23:47:01] [Server thread/INFO]: _Sebas23_ left the game
+[23:47:08] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50145] logged in with entity id 4383 at (2784.4686246187093, 71.16610926093821, -716.20105917001)
+[23:47:08] [Server thread/INFO]: _Sebas23_ joined the game
