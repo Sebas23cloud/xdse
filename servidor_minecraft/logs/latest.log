@@ -1,25 +1,176 @@
-[03:36:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:36:27] [ServerMain/INFO]: Loaded 1290 recipes
-[03:36:27] [ServerMain/INFO]: Loaded 1399 advancements
-[03:36:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:36:28] [Server thread/INFO]: Loading properties
-[03:36:28] [Server thread/INFO]: Default game type: SURVIVAL
-[03:36:28] [Server thread/INFO]: Generating keypair
-[03:36:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:36:28] [Server thread/INFO]: Using epoll channel type
-[03:36:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:36:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:36:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:36:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:36:28] [Server thread/INFO]: Preparing level "world"
-[03:36:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:36:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:36:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:36:32] [Server thread/INFO]: Time elapsed: 657 ms
-[03:36:32] [Server thread/INFO]: Done (3.440s)! For help, type "help"
-[03:36:52] [Server thread/INFO]: _Sebas23_[/100.93.67.125:5174] logged in with entity id 16 at (2722.9873665577948, 73.0, -661.9995413636892)
-[03:36:52] [Server thread/INFO]: _Sebas23_ joined the game
-[03:40:32] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[03:43:49] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[03:43:49] [Server thread/INFO]: _Sebas23_ left the game
-[03:44:22] [Server thread/INFO]: Stopping server
+[03:45:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:45:10] [ServerMain/INFO]: Loaded 1290 recipes
+[03:45:10] [ServerMain/INFO]: Loaded 1399 advancements
+[03:45:10] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:45:10] [Server thread/INFO]: Loading properties
+[03:45:10] [Server thread/INFO]: Default game type: SURVIVAL
+[03:45:10] [Server thread/INFO]: Generating keypair
+[03:45:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:45:10] [Server thread/INFO]: Using epoll channel type
+[03:45:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:45:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:45:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:45:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:45:10] [Server thread/INFO]: Preparing level "world"
+[03:45:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:45:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:45:13] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[03:45:14] [Server thread/INFO]: Time elapsed: 595 ms
+[03:45:14] [Server thread/INFO]: Done (3.004s)! For help, type "help"
+[03:46:16] [Server thread/INFO]: _Sebas23_[/100.93.67.125:5322] logged in with entity id 16 at (2823.9896758396067, 70.5625, -701.5240584244757)
+[03:46:16] [Server thread/INFO]: _Sebas23_ joined the game
+[03:55:44] [Server thread/INFO]: chepaboy[/100.80.73.88:57841] logged in with entity id 2076 at (2722.7030994084835, 62.00133597911215, -681.7191352086945)
+[03:55:44] [Server thread/INFO]: chepaboy joined the game
+[03:56:52] [Server thread/INFO]: [Not Secure] <chepaboy> man si sirve la granja
+[03:56:57] [Server thread/INFO]: [Not Secure] <_Sebas23_> ahjam
+[04:04:01] [Server thread/INFO]: [Not Secure] <chepaboy> q aces=?
+[04:04:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> la paja
+[04:04:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> tradeando palos
+[04:05:46] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:46] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:46] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:46] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:47] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:47] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[04:05:48] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[04:05:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:05:48] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:13:21] [Server thread/INFO]: [Not Secure] <_Sebas23_> tienes libros
+[04:13:25] [Server thread/INFO]: [Not Secure] <chepaboy> ne
+[04:13:28] [Server thread/INFO]: [Not Secure] <chepaboy> aqy
+[04:15:20] [Server thread/INFO]: [Not Secure] <chepaboy> que hacemo?
+[04:15:49] [Server thread/INFO]: [Not Secure] <_Sebas23_> hhmmm
+[04:16:01] [Server thread/INFO]: [Not Secure] <_Sebas23_> granja de hierro
+[04:19:33] [Server thread/INFO]: Villager cmk['Librarian'/62, l='ServerLevel[world]', x=2804.42, y=70.00, z=-706.70] died, message: 'Librarian was slain by Zombie'
+[04:20:03] [Server thread/INFO]: Villager cmk['Librarian'/57, l='ServerLevel[world]', x=2801.05, y=70.75, z=-705.73] died, message: 'Librarian was slain by Zombie'
+[04:20:15] [Server thread/INFO]: Villager cmk['Fletcher'/58, l='ServerLevel[world]', x=2804.79, y=70.00, z=-704.34] died, message: 'Fletcher was slain by Zombie Villager'
+[04:20:18] [Server thread/INFO]: Villager cmk['Librarian'/27, l='ServerLevel[world]', x=2797.90, y=70.00, z=-705.62] died, message: 'Librarian was slain by Zombie Villager'
+[04:20:29] [Server thread/INFO]: Villager cmk['Fletcher'/63, l='ServerLevel[world]', x=2805.69, y=71.00, z=-699.17] died, message: 'Fletcher was slain by Zombie Villager'
+[04:20:30] [Server thread/INFO]: Villager cmk['Librarian'/59, l='ServerLevel[world]', x=2805.60, y=70.64, z=-701.37] died, message: 'Librarian was slain by Zombie Villager'
+[04:20:33] [Server thread/INFO]: Villager cmk['Fletcher'/26, l='ServerLevel[world]', x=2805.70, y=70.13, z=-703.05] died, message: 'Fletcher was slain by Zombie Villager'
+[04:20:33] [Server thread/INFO]: Villager cmk['Fletcher'/60, l='ServerLevel[world]', x=2797.30, y=70.00, z=-698.70] died, message: 'Fletcher was slain by Zombie'
+[04:20:38] [Server thread/INFO]: Villager cmk['Librarian'/56, l='ServerLevel[world]', x=2805.70, y=70.00, z=-698.30] died, message: 'Librarian was slain by Zombie Villager'
+[04:20:42] [Server thread/INFO]: Villager cmk['Fletcher'/61, l='ServerLevel[world]', x=2805.69, y=70.00, z=-706.50] died, message: 'Fletcher was slain by Zombie Villager'
+[04:21:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> man no hice nada xddd
+[04:22:00] [Server thread/INFO]: [Not Secure] <chepaboy> tapa tapa
+[04:22:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2787, y=70, z=-639} jd{x=2801, y=74, z=-703}
+[04:22:30] [Server thread/INFO]: [Not Secure] <chepaboy> pipipipipi
+[04:22:36] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[04:22:36] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:22:37] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:22:37] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:22:37] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[04:22:37] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[04:22:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> descuentos gratis xd
+[04:23:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> pocion de debilidad
+[04:23:19] [Server thread/INFO]: [Not Secure] <_Sebas23_> como se hace
+[04:23:20] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
+[04:23:26] [Server thread/INFO]: [Not Secure] <chepaboy> nose
+[04:24:22] [Server thread/INFO]: [Not Secure] <chepaboy> man
+[04:24:26] [Server thread/INFO]: [Not Secure] <chepaboy> necesitamos blaze
+[04:24:27] [Server thread/INFO]: [Not Secure] <chepaboy> xd
+[04:24:32] [Server thread/INFO]: [Not Secure] <_Sebas23_> vrg lcoo
+[04:24:38] [Server thread/INFO]: [Not Secure] <_Sebas23_> valemos harta xdddd
+[04:24:46] [Server thread/INFO]: [Not Secure] <chepaboy> valemos????
+[04:26:02] [Server thread/INFO]: [Not Secure] <_Sebas23_> ya vamos xd
+[04:26:09] [Server thread/INFO]: [Not Secure] <_Sebas23_> al nether ahorita
+[04:26:10] [Server thread/INFO]: [Not Secure] <chepaboy> necesutoi comia
+[04:28:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> busca una bastion
+[04:28:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> diga
+[04:28:17] [Server thread/INFO]: [Not Secure] <_Sebas23_> el ese
+[04:28:20] [Server thread/INFO]: [Not Secure] <_Sebas23_> de los blaze
+[04:29:29] [Server thread/INFO]: [Not Secure] <chepaboy> que vrg
+[04:30:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:30:03] [Server thread/INFO]: Seed<--[HERE]
+[04:30:06] [Server thread/INFO]: Seed: [8844384692918467362]
+[04:31:24] [Server thread/INFO]: [Not Secure] <chepaboy> coord del nether xd
+[04:31:39] [Server thread/INFO]: [Not Secure] <_Sebas23_> ah xd
+[04:31:52] [Server thread/INFO]: [Not Secure] <chepaboy> 367 -93
+[04:32:04] [Server thread/INFO]: [Not Secure] <_Sebas23_> vamos ahi?
+[04:32:30] [Server thread/INFO]: [Not Secure] <chepaboy> 747 ~ -85
+[04:32:32] [Server thread/INFO]: [Not Secure] <chepaboy> ahi es
+[04:32:35] [Server thread/INFO]: [Not Secure] <_Sebas23_> ya vmos xd
+[04:33:03] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[04:33:03] [Server thread/INFO]: _Sebas23_ left the game
+[04:33:24] [Server thread/INFO]: _Sebas23_[/100.93.67.125:5619] logged in with entity id 11977 at (354.41788733307834, 82.0, -97.68123150310484)
+[04:33:24] [Server thread/INFO]: _Sebas23_ joined the game
+[04:34:15] [Server thread/INFO]: [Not Secure] <chepaboy> 747 ~ -85
+[04:45:29] [Server thread/INFO]: chepaboy has made the advancement [A Terrible Fortress]
+[04:45:29] [Server thread/INFO]: _Sebas23_ has made the advancement [A Terrible Fortress]
+[04:48:14] [Server thread/INFO]: _Sebas23_ has made the advancement [Into Fire]
+[04:48:37] [Server thread/INFO]: _Sebas23_ has made the advancement [Spooky Scary Skeleton]
+[04:51:48] [Server thread/INFO]: chepaboy has made the advancement [Into Fire]
+[05:04:58] [Server thread/INFO]: [Not Secure] <_Sebas23_> x
+[05:21:18] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:21:18] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:21:19] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:21:19] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:21:19] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:21:19] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:21:19] [Server thread/INFO]: [Not Secure] <chepaboy> zz
+[05:21:20] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:21:21] [Server thread/INFO]: [Not Secure] <chepaboy> z
+[05:23:48] [Server thread/INFO]: chepaboy has made the advancement [A Seedy Place]
+[05:27:00] [Server thread/INFO]: chepaboy has made the advancement [Local Brewery]
+[05:27:59] [Server thread/INFO]: Villager cmk['Villager'/18015, l='ServerLevel[world]', x=2809.21, y=70.00, z=-676.35] died, message: 'Villager was slain by chepaboy'
+[05:28:03] [Server thread/INFO]: Villager cmk['Villager'/18012, l='ServerLevel[world]', x=2811.16, y=70.00, z=-675.71] died, message: 'Villager was slain by chepaboy'
+[05:28:03] [Server thread/INFO]: Villager cmk['Villager'/18013, l='ServerLevel[world]', x=2811.70, y=70.00, z=-675.31] died, message: 'Villager was slain by chepaboy'
+[05:28:03] [Server thread/INFO]: Villager cmk['Villager'/18016, l='ServerLevel[world]', x=2810.61, y=70.00, z=-676.55] died, message: 'Villager was slain by chepaboy'
+[05:28:04] [Server thread/INFO]: Villager cmk['Villager'/18017, l='ServerLevel[world]', x=2809.30, y=70.00, z=-676.63] died, message: 'Villager was slain by chepaboy'
+[05:28:04] [Server thread/INFO]: Villager cmk['Villager'/18014, l='ServerLevel[world]', x=2810.56, y=70.00, z=-676.69] died, message: 'Villager was slain by chepaboy'
+[05:28:04] [Server thread/INFO]: Villager cmk['Villager'/18018, l='ServerLevel[world]', x=2809.66, y=70.00, z=-677.51] died, message: 'Villager was slain by chepaboy'
+[05:28:04] [Server thread/INFO]: Villager cmk['Villager'/18019, l='ServerLevel[world]', x=2809.49, y=70.00, z=-676.89] died, message: 'Villager was slain by chepaboy'
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-640} jd{x=2812, y=70, z=-639}
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-640} jd{x=2812, y=70, z=-639}
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-640} jd{x=2812, y=70, z=-639}
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-640} jd{x=2812, y=70, z=-639}
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-640} jd{x=2812, y=70, z=-639}
+[05:30:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2816, y=71, z=-640} jd{x=2812, y=70, z=-639}
+[05:36:23] [Server thread/INFO]: _Sebas23_ has reached the goal [Zombie Doctor]
+[05:36:32] [Server thread/INFO]: Villager cmk['Fletcher'/21577, l='ServerLevel[world]', x=2803.71, y=70.00, z=-706.52] died, message: 'Fletcher was slain by Zombie Villager'
+[05:37:17] [Server thread/INFO]: chepaboy has reached the goal [Zombie Doctor]
+[05:38:14] [Server thread/INFO]: Villager cmk['Librarian'/21790, l='ServerLevel[world]', x=2797.15, y=71.00, z=-699.81] died, message: 'Librarian was slain by Zombie Villager'
+[05:38:15] [Server thread/INFO]: Villager cmk['Fletcher'/22015, l='ServerLevel[world]', x=2804.32, y=70.00, z=-705.65] died, message: 'Fletcher was slain by Zombie Villager'
+[05:38:29] [Server thread/INFO]: Villager cmk['Librarian'/22095, l='ServerLevel[world]', x=2803.54, y=70.00, z=-701.64] died, message: 'Librarian was slain by Zombie Villager'
+[05:38:34] [Server thread/INFO]: Villager cmk['Librarian'/22104, l='ServerLevel[world]', x=2805.70, y=69.00, z=-706.70] died, message: 'Librarian was slain by Zombie Villager'
+[05:38:34] [Server thread/INFO]: Villager cmk['Fletcher'/22106, l='ServerLevel[world]', x=2800.18, y=70.88, z=-705.45] died, message: 'Fletcher was slain by Zombie Villager'
+[05:39:32] [Server thread/INFO]: Villager cmk['Librarian'/22198, l='ServerLevel[world]', x=2797.49, y=71.00, z=-698.89] died, message: 'Librarian was slain by Zombie Villager'
+[05:39:38] [Server thread/INFO]: Villager cmk['Librarian'/22209, l='ServerLevel[world]', x=2797.59, y=70.92, z=-698.30] died, message: 'Librarian was slain by Zombie Villager'
+[05:40:44] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:40:44] [Server thread/INFO]: _Sebas23_ left the game
+[05:41:03] [Server thread/INFO]: Villager cmk['Fletcher'/22169, l='ServerLevel[world]', x=2804.33, y=70.00, z=-705.89] died, message: 'Fletcher was slain by Zombie Villager'
+[05:41:03] [Server thread/INFO]: Villager cmk['Fletcher'/22176, l='ServerLevel[world]', x=2804.55, y=70.00, z=-706.70] died, message: 'Fletcher was slain by Zombie Villager'
+[05:44:46] [Server thread/INFO]: _Sebas23_[/100.93.67.125:5942] logged in with entity id 23127 at (2805.699999988079, 69.0, -706.6999999880791)
+[05:44:46] [Server thread/INFO]: _Sebas23_ joined the game
+[05:50:34] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
+[05:50:34] [Server thread/INFO]: _Sebas23_ left the game
+[05:50:34] [Server thread/WARN]: handleDisconnection() called twice
+[05:50:34] [Server thread/INFO]: _Sebas23_[/100.93.67.125:5977] logged in with entity id 23993 at (2805.8528752313914, 73.0, -703.7589720338776)
+[05:50:34] [Server thread/INFO]: _Sebas23_ joined the game
+[05:51:35] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.541868178881487,2.0013359791121417,2.6624209829849406
+[05:52:13] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[05:52:13] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[05:52:13] [Server thread/INFO]: _Sebas23_ left the game
+[05:52:18] [Server thread/INFO]: _Sebas23_[/100.93.67.125:5990] logged in with entity id 24443 at (2797.608022961772, 71.16610926093821, -691.2726608303411)
+[05:52:18] [Server thread/INFO]: _Sebas23_ joined the game
+[05:53:33] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[05:53:33] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[05:53:33] [Server thread/INFO]: _Sebas23_ left the game
+[05:53:41] [Server thread/INFO]: _Sebas23_[/100.93.67.125:5997] logged in with entity id 24740 at (2798.111075456396, 70.7531999805212, -704.5918161643941)
+[05:53:41] [Server thread/INFO]: _Sebas23_ joined the game
+[05:58:08] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:08] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:09] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:09] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:09] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:09] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:09] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:09] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:10] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:10] [Server thread/INFO]: [Not Secure] <chepaboy> Z
+[05:58:16] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[05:58:16] [Server thread/INFO]: _Sebas23_ left the game
+[05:59:16] [Server thread/INFO]: chepaboy lost connection: Disconnected
+[05:59:16] [Server thread/INFO]: chepaboy left the game
