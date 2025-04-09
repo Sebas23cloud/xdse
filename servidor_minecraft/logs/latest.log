@@ -20,3 +20,9 @@
 [03:52:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@264cd2f[id=56db795e-de34-37cb-8b8b-bb1865b429fa,name=_Sebas23_,properties={}] lost connection: Disconnected
 [03:52:59] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52828] logged in with entity id 18 at (2794.4473424572657, 70.0, -652.30212784909)
 [03:52:59] [Server thread/INFO]: _Sebas23_ joined the game
+[04:53:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2834, y=71, z=-695} jd{x=2831, y=72, z=-688}
+[04:53:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2834, y=71, z=-695} jd{x=2828, y=71, z=-698}
+[04:54:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2834, y=71, z=-695} jd{x=2827, y=72, z=-689}
+[04:57:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2773, y=69, z=-696} jd{x=2769, y=70, z=-699}
+[04:58:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2772, y=70, z=-672} jd{x=2772, y=70, z=-671}
+[05:02:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2756, y=74, z=-713} jd{x=2756, y=75, z=-711}
