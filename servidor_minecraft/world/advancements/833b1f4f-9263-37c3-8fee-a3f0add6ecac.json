@@ -653,6 +653,7 @@
       "minecraft:breeze": "2025-03-21 04:12:51 +0000",
       "minecraft:vindicator": "2025-04-07 04:38:15 +0000",
       "minecraft:enderman": "2025-04-08 05:02:30 +0000",
+      "minecraft:stray": "2025-04-09 23:18:32 +0000",
       "minecraft:magma_cube": "2025-04-07 22:30:01 +0000",
       "minecraft:spider": "2025-03-22 04:29:35 +0000",
       "minecraft:zombie": "2025-03-21 00:44:58 +0000",
@@ -3347,6 +3348,30 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-04-09 02:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-09 23:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-04-09 23:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-04-09 23:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-04-09 23:14:26 +0000"
     },
     "done": true
   },
