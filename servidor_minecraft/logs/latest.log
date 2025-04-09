@@ -72,3 +72,18 @@
 [01:22:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
 [01:22:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
 [01:30:09] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.033366586762895,1.1767592750642422,9.757279314615175
+[01:34:52] [Server thread/WARN]: _Sebas23_ moved too quickly! -6.764204450385478,-1.0244240882136921,7.377427474850265
+[01:37:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2831, y=72, z=-733} jd{x=2828, y=71, z=-735}
+[01:37:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2828, y=71, z=-735} jd{x=2828, y=70, z=-735}
+[01:39:17] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:39:17] [Server thread/INFO]: _Sebas23_ left the game
+[01:39:20] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50613] logged in with entity id 34458 at (2815.9270410155887, 71.0, -708.3167776576192)
+[01:39:20] [Server thread/INFO]: _Sebas23_ joined the game
+[01:40:35] [Server thread/INFO]: [Not Secure] <_Sebas23_> xdç
+[01:40:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=2821, y=70, z=-709}
+[01:41:05] [Server thread/INFO]: Villager cmk['Armorer'/34491, l='ServerLevel[world]', x=2821.20, y=68.00, z=-708.44] died, message: 'Armorer was slain by _Sebas23_'
+[01:41:23] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[01:41:23] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[01:41:23] [Server thread/INFO]: _Sebas23_ left the game
+[01:41:26] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50619] logged in with entity id 35233 at (2818.0357773804685, 71.16610926093821, -705.0424445454344)
+[01:41:26] [Server thread/INFO]: _Sebas23_ joined the game
