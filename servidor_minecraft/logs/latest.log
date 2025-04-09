@@ -1,118 +1,22 @@
-[00:04:03] [Server thread/INFO]: Villager cmk['Librarian'/4392, l='ServerLevel[world]', x=2805.49, y=70.88, z=-703.01] died, message: 'Librarian was slain by _Sebas23_'
-[00:35:01] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[00:35:01] [Server thread/INFO]: _Sebas23_ left the game
-[00:35:02] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50318] logged in with entity id 17190 at (2631.516729835178, 34.0, -114.18617633647949)
-[00:35:02] [Server thread/INFO]: _Sebas23_ joined the game
-[00:35:56] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[00:35:56] [Server thread/INFO]: _Sebas23_ left the game
-[00:35:57] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50321] logged in with entity id 17559 at (2651.174469288047, -37.0, -116.54681196825415)
-[00:35:57] [Server thread/INFO]: _Sebas23_ joined the game
-[00:38:55] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[00:38:55] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[00:38:55] [Server thread/INFO]: _Sebas23_ left the game
-[00:39:02] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50339] logged in with entity id 18472 at (2616.2663388678907, -42.2468000194788, -96.47357171509188)
-[00:39:02] [Server thread/INFO]: _Sebas23_ joined the game
-[00:39:54] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[00:39:54] [Server thread/INFO]: _Sebas23_ left the game
-[00:39:55] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50342] logged in with entity id 18942 at (2538.160887787131, -42.0, -40.174698826040924)
-[00:39:55] [Server thread/INFO]: _Sebas23_ joined the game
-[00:40:55] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[00:40:55] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[00:40:55] [Server thread/INFO]: _Sebas23_ left the game
-[00:41:00] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50346] logged in with entity id 19432 at (2521.732034141112, -30.75081292125532, -48.79689468165118)
-[00:41:00] [Server thread/INFO]: _Sebas23_ joined the game
-[00:41:34] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[00:41:34] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[00:41:34] [Server thread/INFO]: _Sebas23_ left the game
-[00:41:40] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50348] logged in with entity id 19893 at (2559.6012906472797, -45.74779665974627, -40.404653877017324)
-[00:41:40] [Server thread/INFO]: _Sebas23_ joined the game
-[00:42:05] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[00:42:05] [Server thread/INFO]: _Sebas23_ left the game
-[00:42:05] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50357] logged in with entity id 20180 at (2519.5592007260534, -31.747796659746278, -49.05202277942756)
-[00:42:05] [Server thread/INFO]: _Sebas23_ joined the game
-[00:45:15] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[00:45:15] [Server thread/INFO]: _Sebas23_ left the game
-[00:45:15] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50369] logged in with entity id 20909 at (2586.581499557702, -16.0, -52.22417596152063)
-[00:45:15] [Server thread/INFO]: _Sebas23_ joined the game
-[00:47:13] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[00:47:13] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[00:47:13] [Server thread/INFO]: _Sebas23_ left the game
-[00:47:18] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50382] logged in with entity id 21568 at (2580.9302770558, 45.00133597911215, -139.834507120785)
-[00:47:18] [Server thread/INFO]: _Sebas23_ joined the game
-[00:48:25] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[00:48:25] [Server thread/INFO]: _Sebas23_ left the game
-[00:48:26] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50389] logged in with entity id 22106 at (2605.8915481489066, 45.0, -80.30000001192093)
-[00:48:26] [Server thread/INFO]: _Sebas23_ joined the game
-[00:49:16] [Server thread/WARN]: _Sebas23_ moved too quickly! 7.997237831565144,3.2987031463477834,5.126231008573399
-[00:50:11] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.2252988622826706,0.001335979112141672,-9.944607074004267
-[00:51:01] [Server thread/WARN]: _Sebas23_ moved too quickly! -1.7952251457586499,-0.16610926093821377,-10.07452012006928
-[00:51:53] [Server thread/WARN]: _Sebas23_ moved too quickly! -4.557817104667265,-1.1767592750642422,-9.064303353051514
-[00:52:13] [Server thread/WARN]: _Sebas23_ moved too quickly! 10.115803305345707,0.8800391385729398,1.154361547623921
-[00:55:12] [Server thread/WARN]: _Sebas23_ moved too quickly! 5.984401253946999,2.8322033533667508,7.712854314618653
-[00:56:57] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[00:56:57] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[00:56:57] [Server thread/INFO]: _Sebas23_ left the game
-[00:57:04] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50426] logged in with entity id 25007 at (2771.485234141344, 71.18970334025373, -738.9035660276487)
-[00:57:04] [Server thread/INFO]: _Sebas23_ joined the game
-[01:10:39] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[01:10:39] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[01:10:39] [Server thread/INFO]: _Sebas23_ left the game
-[01:10:46] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50480] logged in with entity id 28132 at (2821.4326629596203, 71.25220334025373, -712.1015087026037)
-[01:10:46] [Server thread/INFO]: _Sebas23_ joined the game
-[01:11:36] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[01:11:36] [Server thread/INFO]: _Sebas23_ left the game
-[01:11:37] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50483] logged in with entity id 28606 at (2832.6306539702077, 70.0, -720.3492743811322)
-[01:11:37] [Server thread/INFO]: _Sebas23_ joined the game
-[01:17:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2831, y=69, z=-724} jd{x=2832, y=69, z=-724}
-[01:22:41] [Server thread/WARN]: _Sebas23_ moved too quickly! 8.779860899995128,1.127890238205481,5.130703060370479
-[01:22:44] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[01:22:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[01:22:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[01:22:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[01:22:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[01:22:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> z
-[01:30:09] [Server thread/WARN]: _Sebas23_ moved too quickly! 2.033366586762895,1.1767592750642422,9.757279314615175
-[01:34:52] [Server thread/WARN]: _Sebas23_ moved too quickly! -6.764204450385478,-1.0244240882136921,7.377427474850265
-[01:37:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2831, y=72, z=-733} jd{x=2828, y=71, z=-735}
-[01:37:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2828, y=71, z=-735} jd{x=2828, y=70, z=-735}
-[01:39:17] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[01:39:17] [Server thread/INFO]: _Sebas23_ left the game
-[01:39:20] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50613] logged in with entity id 34458 at (2815.9270410155887, 71.0, -708.3167776576192)
-[01:39:20] [Server thread/INFO]: _Sebas23_ joined the game
-[01:40:35] [Server thread/INFO]: [Not Secure] <_Sebas23_> xdç
-[01:40:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=2821, y=70, z=-709}
-[01:41:05] [Server thread/INFO]: Villager cmk['Armorer'/34491, l='ServerLevel[world]', x=2821.20, y=68.00, z=-708.44] died, message: 'Armorer was slain by _Sebas23_'
-[01:41:23] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[01:41:23] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[01:41:23] [Server thread/INFO]: _Sebas23_ left the game
-[01:41:26] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50619] logged in with entity id 35233 at (2818.0357773804685, 71.16610926093821, -705.0424445454344)
-[01:41:26] [Server thread/INFO]: _Sebas23_ joined the game
-[01:44:34] [Server thread/WARN]: _Sebas23_ moved too quickly! -1.4081470099145008,0.25799910351527444,9.950583543069229
-[01:44:47] [Server thread/INFO]: [Not Secure] <_Sebas23_> xd
-[01:44:49] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[01:44:49] [Server thread/INFO]: _Sebas23_ left the game
-[01:44:50] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50637] logged in with entity id 36204 at (2793.699999988079, 71.0, -652.667088434985)
-[01:44:50] [Server thread/INFO]: _Sebas23_ joined the game
-[01:45:24] [Server thread/WARN]: _Sebas23_ moved too quickly! 3.337370967392417,1.0013359791121417,-9.668050878752183
-[01:52:46] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[01:52:46] [Server thread/INFO]: _Sebas23_ left the game
-[01:52:47] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50669] logged in with entity id 38290 at (2807.2072837236747, 73.0, -707.3636668800272)
-[01:52:47] [Server thread/INFO]: _Sebas23_ joined the game
-[01:54:03] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.003369252396169,-2.203264399331289,4.235735428448265
-[01:55:02] [Server thread/INFO]: chepaboy[/100.80.73.88:51238] logged in with entity id 38949 at (2821.7089582959493, 70.0, -702.5410725056498)
-[01:55:02] [Server thread/INFO]: chepaboy joined the game
-[01:56:57] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
-[01:56:57] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
-[01:56:57] [Server thread/INFO]: _Sebas23_ left the game
-[01:57:03] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50684] logged in with entity id 39519 at (2823.166048436961, 72.7531999805212, -692.20129227131)
-[01:57:03] [Server thread/INFO]: _Sebas23_ joined the game
-[01:57:53] [Server thread/WARN]: _Sebas23_ moved too quickly! 7.945700324321024,2.5870907195829886,5.6916518698393475
-[01:58:33] [Server thread/WARN]: _Sebas23_ moved too quickly! 1.7666525166787324,-0.04353562014750878,9.956002819810124
-[01:59:19] [Server thread/WARN]: _Sebas23_ moved too quickly! 4.5586198700657405,1.1263359791121417,9.11816443224211
-[02:01:18] [Server thread/WARN]: _Sebas23_ moved too quickly! 7.82032154056742,0.0,-6.409075915384392
-[02:04:32] [Server thread/INFO]: _Sebas23_ lost connection: You logged in from another location
-[02:04:32] [Server thread/INFO]: _Sebas23_ left the game
-[02:04:32] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50714] logged in with entity id 41796 at (2796.621924723802, 71.0, -701.112205265012)
-[02:04:32] [Server thread/INFO]: _Sebas23_ joined the game
-[02:12:32] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[02:12:32] [Server thread/INFO]: chepaboy left the game
+[03:52:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:52:21] [ServerMain/INFO]: Loaded 1290 recipes
+[03:52:21] [ServerMain/INFO]: Loaded 1399 advancements
+[03:52:22] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:52:22] [Server thread/INFO]: Loading properties
+[03:52:22] [Server thread/INFO]: Default game type: SURVIVAL
+[03:52:22] [Server thread/INFO]: Generating keypair
+[03:52:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:52:22] [Server thread/INFO]: Using epoll channel type
+[03:52:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:52:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:52:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:52:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:52:22] [Server thread/INFO]: Preparing level "world"
+[03:52:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:52:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:52:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:52:27] [Server thread/INFO]: Time elapsed: 597 ms
+[03:52:27] [Server thread/INFO]: Done (4.541s)! For help, type "help"
+[03:52:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@264cd2f[id=56db795e-de34-37cb-8b8b-bb1865b429fa,name=_Sebas23_,properties={}] lost connection: Disconnected
+[03:52:59] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52828] logged in with entity id 18 at (2794.4473424572657, 70.0, -652.30212784909)
+[03:52:59] [Server thread/INFO]: _Sebas23_ joined the game
