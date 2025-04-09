@@ -59,3 +59,8 @@
 [01:10:39] [Server thread/INFO]: _Sebas23_ left the game
 [01:10:46] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50480] logged in with entity id 28132 at (2821.4326629596203, 71.25220334025373, -712.1015087026037)
 [01:10:46] [Server thread/INFO]: _Sebas23_ joined the game
+[01:11:36] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[01:11:36] [Server thread/INFO]: _Sebas23_ left the game
+[01:11:37] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50483] logged in with entity id 28606 at (2832.6306539702077, 70.0, -720.3492743811322)
+[01:11:37] [Server thread/INFO]: _Sebas23_ joined the game
+[01:17:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2831, y=69, z=-724} jd{x=2832, y=69, z=-724}
