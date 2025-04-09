@@ -1,234 +1,37 @@
-[03:52:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:52:21] [ServerMain/INFO]: Loaded 1290 recipes
-[03:52:21] [ServerMain/INFO]: Loaded 1399 advancements
-[03:52:22] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[03:52:22] [Server thread/INFO]: Loading properties
-[03:52:22] [Server thread/INFO]: Default game type: SURVIVAL
-[03:52:22] [Server thread/INFO]: Generating keypair
-[03:52:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:52:22] [Server thread/INFO]: Using epoll channel type
-[03:52:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:52:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:52:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:52:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:52:22] [Server thread/INFO]: Preparing level "world"
-[03:52:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:52:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:52:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:52:27] [Server thread/INFO]: Time elapsed: 597 ms
-[03:52:27] [Server thread/INFO]: Done (4.541s)! For help, type "help"
-[03:52:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@264cd2f[id=56db795e-de34-37cb-8b8b-bb1865b429fa,name=_Sebas23_,properties={}] lost connection: Disconnected
-[03:52:59] [Server thread/INFO]: _Sebas23_[/100.93.67.125:52828] logged in with entity id 18 at (2794.4473424572657, 70.0, -652.30212784909)
-[03:52:59] [Server thread/INFO]: _Sebas23_ joined the game
-[04:53:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2834, y=71, z=-695} jd{x=2831, y=72, z=-688}
-[04:53:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2834, y=71, z=-695} jd{x=2828, y=71, z=-698}
-[04:54:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2834, y=71, z=-695} jd{x=2827, y=72, z=-689}
-[04:57:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2773, y=69, z=-696} jd{x=2769, y=70, z=-699}
-[04:58:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2772, y=70, z=-672} jd{x=2772, y=70, z=-671}
-[05:02:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2756, y=74, z=-713} jd{x=2756, y=75, z=-711}
-[05:06:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2758, y=73, z=-710} jd{x=2758, y=71, z=-709}
-[05:06:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2759, y=71, z=-717} jd{x=2760, y=69, z=-716}
-[05:06:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2760, y=70, z=-718} jd{x=2759, y=68, z=-718}
-[05:13:36] [Server thread/INFO]: chepaboy[/100.80.73.88:60796] logged in with entity id 18022 at (2819.300000011921, 70.25, -709.1125000119209)
-[05:13:36] [Server thread/INFO]: chepaboy joined the game
-[05:13:47] [Server thread/INFO]: [Not Secure] <chepaboy> hay muxhaxho muxhaxho
-[05:13:49] [Server thread/INFO]: [Not Secure] <chepaboy> xd
-[05:13:56] [Server thread/INFO]: [Not Secure] <_Sebas23_> te hare una tiradera
-[05:14:03] [Server thread/INFO]: [Not Secure] <chepaboy> apoco si
-[05:14:05] [Server thread/INFO]: [Not Secure] <_Sebas23_> oe si vistes la man esa la de luigi
-[05:14:07] [Server thread/INFO]: [Not Secure] <_Sebas23_> tla nueva
-[05:14:10] [Server thread/INFO]: [Not Secure] <chepaboy> ne
-[05:14:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> madeline
-[05:14:16] [Server thread/INFO]: [Not Secure] <_Sebas23_> con rizos
-[05:14:23] [Server thread/INFO]: [Not Secure] <chepaboy> vro y que tal tu granja que hiciste solo??
-[05:14:31] [Server thread/INFO]: [Not Secure] <chepaboy> vales harta
-[05:14:48] [Server thread/INFO]: [Not Secure] <chepaboy> mhhhhhhh
-[05:14:55] [Server thread/INFO]: [Not Secure] <chepaboy> buenos
-[05:15:01] [Server thread/INFO]: [Not Secure] <chepaboy> me la saco
-[05:15:02] [Server thread/INFO]: [Not Secure] <chepaboy> xd
-[05:15:05] [Server thread/INFO]: [Not Secure] <chepaboy> pilas
-[05:15:08] [Server thread/INFO]: [Not Secure] <_Sebas23_> oe sabes hacer
-[05:15:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> granja de xp
-[05:15:14] [Server thread/INFO]: [Not Secure] <chepaboy> ???
-[05:15:18] [Server thread/INFO]: [Not Secure] <chepaboy> hmmmmm
-[05:15:21] [Server thread/INFO]: [Not Secure] <chepaboy> maso
-[05:15:40] [Server thread/INFO]: [Not Secure] <chepaboy> bueno
-[05:15:49] [Server thread/INFO]: [Not Secure] <chepaboy> te dejo q sigas aplanando
-[05:15:52] [Server thread/INFO]: [Not Secure] <chepaboy> plias
-[05:15:55] [Server thread/INFO]: [Not Secure] <_Sebas23_> sigues enojado_
-[05:15:57] [Server thread/INFO]: [Not Secure] <chepaboy> y suerte
-[05:16:02] [Server thread/INFO]: [Not Secure] <chepaboy> no estoy enojado
-[05:16:10] [Server thread/INFO]: [Not Secure] <chepaboy> solo estoy decepcionao
-[05:16:25] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero man es una simple granja de momento
-[05:16:33] [Server thread/INFO]: [Not Secure] <chepaboy> vro
-[05:16:39] [Server thread/INFO]: [Not Secure] <chepaboy> que es mas divertido
-[05:16:49] [Server thread/INFO]: [Not Secure] <chepaboy> hacerla solo o acompañao
-[05:16:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> pues man te ahorre trabajo
-[05:17:00] [Server thread/INFO]: [Not Secure] <chepaboy> pa eso mejor juega solo
-[05:17:03] [Server thread/INFO]: [Not Secure] <chepaboy> no crees?
-[05:17:16] [Server thread/INFO]: [Not Secure] <_Sebas23_> al menos tiene hierro xd
-[05:17:21] [Server thread/INFO]: [Not Secure] <chepaboy> y de que crees que trata el mc de que te hagan todo
-[05:17:22] [Server thread/INFO]: [Not Secure] <_Sebas23_> man y es de momento
-[05:17:24] [Server thread/INFO]: [Not Secure] <chepaboy> ???
-[05:17:45] [Server thread/INFO]: [Not Secure] <chepaboy> o dime te gustaria yo teniendo la cuenta
-[05:17:52] [Server thread/INFO]: [Not Secure] <chepaboy> entro cuando tu no estes o no puedas
-[05:18:02] [Server thread/INFO]: [Not Secure] <chepaboy> y avanzo algo que te da ilusion??
-[05:18:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> pues no estaria mal que progesaras algo
-[05:18:32] [Server thread/INFO]: [Not Secure] <chepaboy> bueno vro
-[05:18:35] [Server thread/INFO]: [Not Secure] <chepaboy> pilas pilas
-[05:18:42] [Server thread/INFO]: [Not Secure] <_Sebas23_> ya no volveras_
-[05:18:46] [Server thread/INFO]: [Not Secure] <chepaboy> voy a ver cuando juego
-[05:18:52] [Server thread/INFO]: [Not Secure] <chepaboy> nose si vuelva xd
-[05:19:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> man si quito la granja
-[05:19:09] [Server thread/INFO]: [Not Secure] <chepaboy> lit esa pendejadita me quito toda las ganas
-[05:19:11] [Server thread/INFO]: [Not Secure] <_Sebas23_> ya vuelves_
-[05:19:17] [Server thread/INFO]: [Not Secure] <chepaboy> neeeee
-[05:19:22] [Server thread/INFO]: [Not Secure] <chepaboy> el daño ya esta echo
-[05:19:22] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero entonces
-[05:20:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> man es de momento literal
-[05:20:13] [Server thread/INFO]: [Not Secure] <_Sebas23_> despues haremos una mas grande
-[05:20:21] [Server thread/INFO]: [Not Secure] <chepaboy> lit eso me quito todas las ganas de jugar
-[05:20:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> man solo necesitaba hierro
-[05:20:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> para ese horno
-[05:20:58] [Server thread/INFO]: [Not Secure] <chepaboy> hmmmm
-[05:21:03] [Server thread/INFO]: [Not Secure] <chepaboy> cualquiera espera?
-[05:21:12] [Server thread/INFO]: [Not Secure] <_Sebas23_> si pero man
-[05:21:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> no es la verdadera
-[05:21:26] [Server thread/INFO]: [Not Secure] <chepaboy> ya se que no es la verdadera
-[05:21:38] [Server thread/INFO]: [Not Secure] <chepaboy> ya me los has dicho muchas veces
-[05:21:49] [Server thread/INFO]: [Not Secure] <chepaboy> pero mas lo que vale es el momento
-[05:22:53] [Server thread/INFO]: [Not Secure] <_Sebas23_> mman es una simple pendejada no para que te lo tomes como la gota que derramo el vaso
-[05:23:09] [Server thread/INFO]: [Not Secure] <chepaboy> yo se
-[05:23:25] [Server thread/INFO]: [Not Secure] <chepaboy> y por eso estoy viendo si sigo jugando o ne
-[05:23:32] [Server thread/INFO]: [Not Secure] <chepaboy> man me la bajo lit
-[05:23:40] [Server thread/INFO]: [Not Secure] <chepaboy> taba remotibado y se fue
-[05:23:44] [Server thread/INFO]: [Not Secure] <chepaboy> Todo
-[05:23:49] [Server thread/INFO]: [Not Secure] <_Sebas23_> man por eso wbd vas a dejar botado todo_
-[05:24:14] [Server thread/INFO]: [Not Secure] <chepaboy> pos si
-[05:24:20] [Server thread/INFO]: [Not Secure] <chepaboy> y que tiene?
-[05:24:28] [Server thread/INFO]: [Not Secure] <chepaboy> yo soy el que se va no tu
-[05:24:52] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero man es una cosa que no es de tanto valor
-[05:25:04] [Server thread/INFO]: [Not Secure] <_Sebas23_> porq literal la puedo quitar y hacemos una mejor
-[05:25:53] [Server thread/INFO]: [Not Secure] <chepaboy> yo se pero q paja la vrd ;v
-[05:26:03] [Server thread/INFO]: [Not Secure] <chepaboy> y aparte si pudiste hacer esa sola
-[05:26:10] [Server thread/INFO]: [Not Secure] <chepaboy> podes hacer la mas grande
-[05:26:26] [Server thread/INFO]: [Not Secure] <_Sebas23_> pues man no la hice porque tenia pereza y es de poco mats
-[05:27:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> y no la hice solo porque te dije que hariamos los dos la mejor
-[05:27:57] [Server thread/INFO]: [Not Secure] <chepaboy> y que te costaba para esperar a hacer esta?
-[05:28:36] [Server thread/INFO]: [Not Secure] <_Sebas23_> pues man dijistes que te ibas alla y de noche no tenia ganas de jugar nd porque andaba aburrido
-[05:28:49] [Server thread/INFO]: [Not Secure] <_Sebas23_> y man literal despues la tendre que quitar
-[05:29:06] [Server thread/INFO]: [Not Secure] <chepaboy> y eso fue ayer
-[05:29:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> ayer que xd?
-[05:29:20] [Server thread/INFO]: [Not Secure] <chepaboy> dije voy a salir q lo van a sobar a mi pa
-[05:29:32] [Server thread/INFO]: [Not Secure] <chepaboy> y luego dije y voy a ver si juego mas tarde
-[05:29:42] [Server thread/INFO]: [Not Secure] <chepaboy> porque tenia q ir a un funeral
-[05:29:44] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero yo no sabia si iba a jugar
-[05:29:47] [Server thread/INFO]: [Not Secure] <chepaboy> pero lo cambie
-[05:29:54] [Server thread/INFO]: [Not Secure] <chepaboy> porque tengo pja
-[05:30:10] [Server thread/INFO]: [Not Secure] <chepaboy> y cuaqluiera pregutna
-[05:30:15] [Server thread/INFO]: [Not Secure] <_Sebas23_> man literal si te da eso iba a ser peor esa granja
-[05:30:53] [Server thread/INFO]: [Not Secure] <_Sebas23_> bro a mi no me importa quitar la granja lo que importa es que juguemos los dos
-[05:31:25] [Server thread/INFO]: [Not Secure] <chepaboy> apoco si
-[05:31:34] [Server thread/INFO]: [Not Secure] <chepaboy> vro ya no la intentes arreglar
-[05:31:38] [Server thread/INFO]: [Not Secure] <chepaboy> ya no se puede
-[05:31:47] [Server thread/INFO]: [Not Secure] <chepaboy> xd
-[05:31:48] [Server thread/INFO]: [Not Secure] <_Sebas23_> entonces que borro el server
-[05:31:59] [Server thread/INFO]: [Not Secure] <_Sebas23_> porque ya no quieres jugar
-[05:33:25] [Server thread/INFO]: [Not Secure] <chepaboy> no es que no quiero jugar
-[05:33:34] [Server thread/INFO]: [Not Secure] <chepaboy> si no que mataste las ganas de jugar
-[05:33:56] [Server thread/INFO]: [Not Secure] <_Sebas23_> man y pense que iba a decir algo tipo que bien que progesastes haremos otra granja la de mobs o exp
-[05:34:41] [Server thread/INFO]: [Not Secure] <chepaboy> pos esta bien
-[05:34:47] [Server thread/INFO]: [Not Secure] <chepaboy> pero avanzaste de mas
-[05:35:00] [Server thread/INFO]: [Not Secure] <chepaboy> vos dijiste que hibas a hacer
-[05:35:04] [Server thread/INFO]: [Not Secure] <chepaboy> ese horno
-[05:35:07] [Server thread/INFO]: [Not Secure] <chepaboy> y ya
-[05:35:11] [Server thread/INFO]: [Not Secure] <chepaboy> ni siquiera dices
-[05:35:19] [Server thread/INFO]: [Not Secure] <chepaboy> voy a la granja de hierro
-[05:35:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero pues man pense q no te ibas enojar tanto
-[05:35:44] [Server thread/INFO]: [Not Secure] <_Sebas23_> porque como es algo simple
-[05:35:58] [Server thread/INFO]: [Not Secure] <chepaboy> man que no entendes que no estoy enojao
-[05:36:03] [Server thread/INFO]: [Not Secure] <chepaboy> toy decepsionao
-[05:36:05] [Server thread/INFO]: [Not Secure] <chepaboy> sapo
-[05:36:07] [Server thread/INFO]: [Not Secure] <chepaboy> perro
-[05:36:46] [Server thread/INFO]: [Not Secure] <_Sebas23_> entonces
-[05:38:21] [Server thread/INFO]: [Not Secure] <chepaboy> ?
-[05:39:05] [Server thread/INFO]: [Not Secure] <_Sebas23_> vas a estar asi por eso?
-[05:39:16] [Server thread/INFO]: [Not Secure] <chepaboy> pos q mas?
-[05:39:37] [Server thread/INFO]: [Not Secure] <_Sebas23_> enserio_
-[05:39:42] [Server thread/INFO]: [Not Secure] <chepaboy> q?
-[05:40:01] [Server thread/INFO]: [Not Secure] <chepaboy> vro tu mismo dijiste
-[05:40:13] [Server thread/INFO]: [Not Secure] <chepaboy> ´´Vamos a avanzar juntos´´
-[05:40:21] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero man es un solo progeso nada mas
-[05:40:32] [Server thread/INFO]: [Not Secure] <_Sebas23_> no tiene que intervenir en todo
-[05:40:42] [Server thread/INFO]: [Not Secure] <chepaboy> pos para mi si
-[05:41:03] [Server thread/INFO]: [Not Secure] <chepaboy> ya imagina que tu entres de la nada y yo ya haga una granja
-[05:41:10] [Server thread/INFO]: [Not Secure] <chepaboy> consiga hartisimas cosas
-[05:41:21] [Server thread/INFO]: [Not Secure] <chepaboy> en vez de esperar
-[05:41:26] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero no es nd q ver con lo q hice
-[05:41:26] [Server thread/INFO]: [Not Secure] <chepaboy> y conseguirlo juntos?
-[05:41:35] [Server thread/INFO]: [Not Secure] <chepaboy> tons que hiciste
-[05:41:40] [Server thread/INFO]: [Not Secure] <chepaboy> una granja
-[05:41:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> una simple granja de hierro que no es la gran cosa
-[05:41:51] [Server thread/INFO]: [Not Secure] <chepaboy> vro la conversaciones o el tiempo
-[05:42:00] [Server thread/INFO]: [Not Secure] <chepaboy> que perdiste
-[05:42:13] [Server thread/INFO]: [Not Secure] <chepaboy> bueno vro
-[05:42:15] [Server thread/INFO]: [Not Secure] <chepaboy> pilas
-[05:42:18] [Server thread/INFO]: [Not Secure] <chepaboy> ya me voy
-[05:42:23] [Server thread/INFO]: [Not Secure] <chepaboy> tengo sueño
-[05:42:27] [Server thread/INFO]: [Not Secure] <chepaboy> pilas pilas
-[05:42:31] [Server thread/INFO]: [Not Secure] <_Sebas23_> man en llamada no sabemos nada de q hablar
-[05:42:38] [Server thread/INFO]: [Not Secure] <chepaboy> man y aparte
-[05:42:48] [Server thread/INFO]: [Not Secure] <chepaboy> te dije pa jugar
-[05:42:53] [Server thread/INFO]: [Not Secure] <chepaboy> entramos dc y todo normal
-[05:43:00] [Server thread/INFO]: [Not Secure] <chepaboy> dijiste ya regreso voy a comer
-[05:43:08] [Server thread/INFO]: [Not Secure] <chepaboy> y cerraste el server
-[05:43:10] [Server thread/INFO]: [Not Secure] <_Sebas23_> man pues fui a comer
-[05:43:15] [Server thread/INFO]: [Not Secure] <chepaboy> y te fuiste a jugar forntie
-[05:43:18] [Server thread/INFO]: [Not Secure] <_Sebas23_> pues man vi que te salistes
-[05:43:29] [Server thread/INFO]: [Not Secure] <chepaboy> porque tenia que hacer algo
-[05:43:37] [Server thread/INFO]: [Not Secure] <chepaboy> ahora uno no puede hacer nada
-[05:43:42] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero manda msg diciendo que no cierre
-[05:43:46] [Server thread/INFO]: [Not Secure] <chepaboy> osea dejo que le roben a mi familia??
-[05:43:52] [Server thread/INFO]: [Not Secure] <chepaboy> pense que no estabas
-[05:43:57] [Server thread/INFO]: [Not Secure] <_Sebas23_> en ig
-[05:44:04] [Server thread/INFO]: [Not Secure] <chepaboy> por que se supone que te habias ido a comer
-[05:44:12] [Server thread/INFO]: [Not Secure] <chepaboy> no dices que no tienes telefono
-[05:44:28] [Server thread/INFO]: [Not Secure] <_Sebas23_> man yo nunca digo que no tengo telefono
-[05:44:30] [Server thread/INFO]: [Not Secure] <_Sebas23_> si tengo
-[05:44:37] [Server thread/INFO]: [Not Secure] <chepaboy> JAJAJAJAJAJ
-[05:44:44] [Server thread/INFO]: [Not Secure] <chepaboy> si vro nunca me has dicho
-[05:44:46] [Server thread/INFO]: [Not Secure] <chepaboy> eso
-[05:44:48] [Server thread/INFO]: [Not Secure] <chepaboy> sisisisisi
-[05:45:03] [Server thread/INFO]: [Not Secure] <_Sebas23_> man lo digo porque me dicen si no tienes porque no publicas algo
-[05:45:14] [Server thread/INFO]: [Not Secure] <_Sebas23_> y aparte te digo que tengo un iphone 1
-[05:45:34] [Server thread/INFO]: [Not Secure] <_Sebas23_> de broma
-[05:45:40] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero si tengo whatsapp es por algo
-[05:45:45] [Server thread/INFO]: [Not Secure] <chepaboy> pos no lo haces sonar de vro
-[05:45:47] [Server thread/INFO]: [Not Secure] <chepaboy> broma
-[05:45:59] [Server thread/INFO]: [Not Secure] <chepaboy> pos ya ni siquiera te jodemos con eso
-[05:46:06] [Server thread/INFO]: [Not Secure] <chepaboy> bueno de mi parte ya noo
-[05:46:06] [Server thread/INFO]: [Not Secure] <_Sebas23_> luiggi si
-[05:46:15] [Server thread/INFO]: [Not Secure] <chepaboy> yo soy luiggi??
-[05:46:31] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero cuando estamos con el tengo que decir eso
-[05:46:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> y aparte man si no tendria cel como te mandaba msj en whatsapp
-[05:47:01] [Server thread/INFO]: [Not Secure] <_Sebas23_> en el tiempo que no tenia computadora
-[05:47:02] [Server thread/INFO]: [Not Secure] <chepaboy> pos el de tu mama o nose
-[05:47:17] [Server thread/INFO]: [Not Secure] <chepaboy> y aparte existe whatsapp web}
-[05:47:23] [Server thread/INFO]: [Not Secure] <_Sebas23_> pues con que xd
-[05:47:31] [Server thread/INFO]: [Not Secure] <_Sebas23_> si ni computadora tenia
-[05:47:38] [Server thread/INFO]: [Not Secure] <chepaboy> apoco si
-[05:47:47] [Server thread/INFO]: [Not Secure] <chepaboy> sabes ya no te creo nada
-[05:47:48] [Server thread/INFO]: [Not Secure] <chepaboy> xd
-[05:47:51] [Server thread/INFO]: [Not Secure] <chepaboy> pilas vro
-[05:47:51] [Server thread/INFO]: [Not Secure] <_Sebas23_> y como va a ser el whatsapp de mi ma si ella necesita su whatsapp
-[05:47:56] [Server thread/INFO]: [Not Secure] <chepaboy> me la saco
-[05:47:58] [Server thread/INFO]: [Not Secure] <_Sebas23_> pues man literal
-[05:48:02] [Server thread/INFO]: [Not Secure] <chepaboy> ya tengo sueño
-[05:48:08] [Server thread/INFO]: [Not Secure] <chepaboy> tantas veces que me has mentido
-[05:48:16] [Server thread/INFO]: [Not Secure] <chepaboy> ya no se cuando dices la vrd o mientes
-[05:48:19] [Server thread/INFO]: [Not Secure] <_Sebas23_> pero te estoy diciendo la verdad
-[05:48:22] [Server thread/INFO]: [Not Secure] <chepaboy> pilas pilas
-[05:48:23] [Server thread/INFO]: chepaboy lost connection: Disconnected
-[05:48:23] [Server thread/INFO]: chepaboy left the game
-[05:48:26] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
-[05:48:26] [Server thread/INFO]: _Sebas23_ left the game
+[21:19:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:19:02] [ServerMain/INFO]: Loaded 1290 recipes
+[21:19:02] [ServerMain/INFO]: Loaded 1399 advancements
+[21:19:03] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:19:03] [Server thread/INFO]: Loading properties
+[21:19:03] [Server thread/INFO]: Default game type: SURVIVAL
+[21:19:03] [Server thread/INFO]: Generating keypair
+[21:19:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:19:04] [Server thread/INFO]: Using epoll channel type
+[21:19:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:19:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:19:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:19:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:19:04] [Server thread/INFO]: Preparing level "world"
+[21:19:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:19:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:19:09] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[21:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[21:19:10] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[21:19:10] [Server thread/INFO]: Time elapsed: 1673 ms
+[21:19:10] [Server thread/INFO]: Done (6.076s)! For help, type "help"
+[21:21:31] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50136] logged in with entity id 18 at (2818.1793376877467, 70.0, -701.645888564918)
+[21:21:31] [Server thread/INFO]: _Sebas23_ joined the game
+[21:23:14] [Server thread/WARN]: _Sebas23_ moved too quickly! 6.793999115820043,1.130906499714527,7.565940816208808
+[21:23:32] [Server thread/WARN]: _Sebas23_ moved too quickly! 9.474743801202294,1.127890238205481,-3.19982552279464
+[21:25:26] [Server thread/INFO]: _Sebas23_ lost connection: Disconnected
+[21:25:26] [Server thread/INFO]: _Sebas23_ left the game
+[21:25:28] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50165] logged in with entity id 1199 at (2796.828538785848, 70.0, -711.6352779058982)
+[21:25:28] [Server thread/INFO]: _Sebas23_ joined the game
+[21:26:44] [Server thread/WARN]: _Sebas23_ was kicked for floating too long!
+[21:26:44] [Server thread/INFO]: _Sebas23_ lost connection: Flying is not enabled on this server
+[21:26:44] [Server thread/INFO]: _Sebas23_ left the game
+[21:26:44] [Server thread/WARN]: handleDisconnection() called twice
+[21:26:50] [Server thread/INFO]: _Sebas23_[/100.93.67.125:50172] logged in with entity id 1773 at (2823.7822090711275, 74.04110926093821, -706.1666515350297)
+[21:26:50] [Server thread/INFO]: _Sebas23_ joined the game
+[21:47:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=73, z=-709} jd{x=2762, y=73, z=-709}
+[21:47:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2761, y=73, z=-709} jd{x=2762, y=73, z=-709}
